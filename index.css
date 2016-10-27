@@ -1,0 +1,16 @@
+#content {
+	width: 60%;
+	padding: 10px;
+	margin: auto;
+	background: rgb(192, 210, 255);
+}
+
+#header, #footer {
+	width: 100%;
+	height: 20px;
+	background: red;
+}
+
+#header {}
+
+#footer {}
