@@ -1,0 +1,15 @@
+[submodule "projects/agaravity"]
+	path = projects/agaravity
+	url = https://github.com/rocne/agaravity.git
+[submodule "projects/ChainSim"]
+	path = projects/ChainSim
+	url = https://github.com/rocne/ChainSim.git
+[submodule "projects/fsm"]
+	path = projects/fsm
+	url = https://github.com/rocne/fsm.git
+[submodule "projects/FractalTree"]
+	path = projects/FractalTree
+	url = https://github.com/rocne/FractalTree.git
+[submodule "projects/colorfunctions"]
+	path = projects/colorfunctions
+	url = https://github.com/rocne/colorfunctions.git
